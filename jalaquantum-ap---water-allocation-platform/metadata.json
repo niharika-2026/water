@@ -1,0 +1,6 @@
+{
+  "name": "JalaQuantum AP - Water Allocation Platform",
+  "description": "Quantum AI and ML hydrological optimization platform for irrigation scheduling, reservoir release dispatch, and equitable canal water distribution across AP Krishna-Godavari command areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
